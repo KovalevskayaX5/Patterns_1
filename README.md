@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2v448r9v0u208bqn/branch/main?svg=true)](https://ci.appveyor.com/project/KovalevskayaX5/patterns-1/branch/main)

@@ -53,5 +53,6 @@ public class DataGenerator {
         String city;
         String name;
         String phone;
+
     }
 }
